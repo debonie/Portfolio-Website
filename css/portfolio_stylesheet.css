@@ -28,6 +28,7 @@ p.name {
 }
 div.resume {
     overflow: auto;
+    text-align: center;
 }
 .name {
     font-family: "Brush Script MT", cursive;
