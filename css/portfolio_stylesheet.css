@@ -26,6 +26,9 @@ p.name {
     margin-left: 350px;
     margin-top: 250px;
 }
+div.resume {
+    overflow: auto;
+}
 .name {
     font-family: "Brush Script MT", cursive;
 }
@@ -130,7 +133,9 @@ li.dropdown {
     text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #800040}
+.dropdown-content a:hover {
+    background-color: #800040
+}
 
 .dropdown:hover .dropdown-content {
     display: block;
