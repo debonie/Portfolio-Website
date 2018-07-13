@@ -88,6 +88,7 @@ div.resume {
 }
 img {
     padding: 20px;
+    background-repeat: no-repeat;
 }
 ul {
     list-style-type: none;
