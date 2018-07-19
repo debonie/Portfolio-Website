@@ -52,6 +52,8 @@ div.resume {
 
     display: block;
     background-image: url("../images/html.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 
     z-index: -1;
 
