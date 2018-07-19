@@ -12,6 +12,9 @@ body {
 h1.header {
     padding-top: 20px;
 }
+h2 {
+    color: white;
+}
 p {
     color: white;
 }
